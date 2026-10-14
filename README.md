@@ -1,20 +1,37 @@
-# ⚙️ Osman Addoma | Industrial AI Engineer
-### 20+ Years Power Systems & Industrial Automation | Sudan
+<p align="center">
+  <img src="IMG-20261014-WA4675.jpg" width="100%" />
+</p>
 
-> **Building ATS-DocGen AI Suite: The AI that reads 500-page Perkins/CAT manuals in 30 seconds.**
+<h1 align="center">Osman A. | ATS Industrial Intelligence</h1>
+<p align="center">
+  <b>🏭 20+ Years Field Engineer → Built AI from Omdurman for GCC Factories</b><br>
+  ⚡ CAT 3516C 3000kW | Perkins | Cummins | DSE 8610/7320 Sync Expert<br>
+  <i>"I don't build apps. I build Industrial Operating Systems that save $50k/year in fuel & downtime."</i>
+</p>
 
-### 🚀 FLAGSHIP LIVE: ATS-DocGen AI
-**Live Demo:** https://ats-docgen-ai-mmvq4yws2dqhuwhzktrhw8.streamlit.app/
-- **DocIntel RAG:** Vector DB for instant manual search
-- **Vision OCR:** Reads schematics & wiring diagrams
-- **LSTM Prediction:** Predicts generator failure before it happens
-- **Field Ready:** WhatsApp Work Orders for technicians
+<p align="center">
+  <img src="https://img.shields.io/badge/LIVE%20PLATFORM-6%20Modules-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TRIAL-7DAYS%20FREE-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Built%20in-Omdurman%20→%20KSA%2C%20UAE%2C%20QATAR-green?style=for-the-badge" />
+</p>
 
-**Stack:** `Python` `Streamlit` `Supabase` `TensorFlow` `OpenCV` `IoT`
+### 🔴 LIVE DEMO
+**👉 https://ats-docgen-ai-mmvq4yws2dqhuwhzktrhw8.streamlit.app**
+**🎁 Code: `TRIAL-7DAYS`**
 
-### 📦 6 Core Systems
-ATS-DocGen | osman-addoma V6 Pro | Smart Maintenance Assist | WIC Inspection | Solar Diagnostics
+> **هل مصنعك لا يزال يدير المولدات بالدفتر؟**
 
----
-**📩 Enterprise License & Consulting:** WhatsApp +249922562846
-**🔗** [LinkedIn](https://www.linkedin.com/in/osman-adam-addoma-1263bb1b9) | **📧** ATS - Addoma Trading Services
+<p align="center">
+  <img src="IMG-20261014-WA4675.jpg" width="250" style="border-radius:50%" />
+</p>
+
+#### ⚡ 4 Core Specialties:
+**1. Power Generation:** CAT 3516C/C32, Perkins, Cummins QSK, DSE 8610 & 7320 Sync
+**2. Cold Chain:** Porkka Finland, Emerson, WIC Inspection, HACCP, SBC 601
+**3. Fuel & Hybrid:** Real-time Fuel Consumption, Fuel Theft Detection, Solar+Genset
+**4. Field AI:** RAG & Vector DB, Vision OCR, Acoustic Diagnostics, LSTM / RUL 72h Prediction, WhatsApp Work Orders
+
+**📍 Omdurman, Sudan → KSA, UAE, Qatar**
+**📲 WhatsApp:** +249922562846
+
+#Perkins #CAT #Cummins #DSE8610 #PowerGeneration #PredictiveMaintenance #ColdChain #Porkka #السودان #ATS_ENG #IndustrialAI
